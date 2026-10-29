@@ -1,6 +1,6 @@
 # GHX0.github.io
 
-Personal homepage for 郭汉鑫.
+Personal homepage for Shura.
 
 ## Preview
 
